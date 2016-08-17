@@ -1,0 +1,35 @@
+body {
+color: #;
+background-color: #1D2326;  
+}
+
+.div-center {
+  margin-top: 2mm;
+  margin-left: 153mm;
+  float: none;
+}
+
+.input {
+  background-color: #1D2326;
+  border-style: ridge;
+  border-width: 0px 0px 1px 0px;
+  border-color: gray;
+  outline: none;
+  margin-bottom: 2mm;
+  color: #958976;
+}
+
+.title {
+  font-family: Helvetica-bold;
+  font-size: 30px;
+}
+
+.text {
+  font-family: Helvetica;
+  font-size: 16px;
+}
+
+.well {
+  background-color: #DDDCC5;
+  border-radius: 20px;
+}
